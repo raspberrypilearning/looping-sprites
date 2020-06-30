@@ -1,14 +1,24 @@
 ## Introduction
+You're going to create a project with sprites that move over a backdrop to try and change someone's mood. You can choose to make your project relaxing, energising, funny, inspiring or something else, it's your choice. You will choose a theme for your project a select a backdrop and sprites. You will invent an algorithm for each of the sprites.
 
-Add project description here. What will learners be making?
+### Skills you should have
+To do complete project you need to have the following skills which you may have learnt completing Butterfly garden.
+- How to use costumes
+- How to use the forever{:class="block3control"} block
 
-### What you will make
+You will now apply these skills to create your own project.
+
+
+### What others have made
+
+Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){target=_blank} studio where you can investigate projects created by others to get ideas for your project. 
+
+Tip: 'Look inside' a project to see the code. 
 
 --- no-print ---
-Add instructions for using the embedded content here.
-
+Click the green flag and watch the sprites move around:
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/407384474/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /no-print ---
 
@@ -26,9 +36,7 @@ title: What you will need
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
 
 ### Downloads
 
