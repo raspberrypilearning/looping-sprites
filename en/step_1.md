@@ -22,7 +22,7 @@ Click the green flag and watch the sprites move around:
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png){:width="350px"}
+![Complete project](images/showcase_static.png){:width="400px"}
 --- /print-only ---
 
 --- collapse ---
