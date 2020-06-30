@@ -55,7 +55,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+[Here](http://rpf.io/project-name-go) is a link to the resources for this project.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
 
