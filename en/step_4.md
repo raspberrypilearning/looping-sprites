@@ -17,7 +17,13 @@ Add code to your sprite to make it move the way you want it to.
 
 Think about the blocks you will need and the order you need to put them in. 
 
-It's easier to identify issues if you add one block at a time and then run your program. Is the program working as you had planned?
+--- /task ---
+
+**Tip:** It's easier to identify issues if you add one block at a time and then run your program. 
+
+--- task ---
+
+Remember to keep running your project to test it. Is the program working as you had planned?
 
 --- /task ---
 
