@@ -11,11 +11,13 @@ scratch-point-in-direction
 scratch-if-on-edge-bounce
 scratch-forever
 
-scratch-graphic-effects
 scratch-duplicating-code
+
+scratch-graphic-effects
 scratch-rotate-costume
-scratcher
+scratch-scratcher
 scratch-layers
+
 scratch-rotation-style
 scratch-paint-ungroup
 scratch-paint-eyedropper
