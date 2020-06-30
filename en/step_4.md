@@ -15,6 +15,7 @@ Add code to your sprite to make it move the way you want it to.
 Think about the blocks you will need and the order you need to put them in.
 
 --- /task ---
+
 --- task ---
 Keep going back to the [Demonstrate checklist] step and marking the items you have completed. How are you doing? Can you find ways to demonstrate more skills in your project?
 
