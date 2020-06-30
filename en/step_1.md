@@ -10,7 +10,7 @@ You will now apply these skills to create your own project.
 
 ### What others have made
 
-Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} studio where you can investigate projects created by others to get ideas for your project. 
+Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} studio to investigate projects created by others to get ideas for your own Looping sprites project. 
 
 Tip: 'See inside' a project to see the code. 
 
