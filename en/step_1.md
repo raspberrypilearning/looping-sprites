@@ -1,7 +1,7 @@
 ## Introduction
 You're going to create a project with sprites that move over a backdrop to try and change someone's mood. You can choose to make your project relaxing, energising, funny, inspiring or something else, it's your choice. You will choose a theme for your project a select a backdrop and sprites. You will invent an algorithm for each of the sprites.
 
-### Skills you should have
+## Skills you should have
 To do complete project you need to have the following skills which you may have learnt completing Butterfly garden.
 - How to use costumes
 - How to use the `forever`{:class="block3control"} block
@@ -9,9 +9,9 @@ To do complete project you need to have the following skills which you may have 
 You will now apply these skills to create your own project.
 
 
-### What others have made
+## What others have made
 
-Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){target=_blank} studio where you can investigate projects created by others to get ideas for your project. 
+Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} studio where you can investigate projects created by others to get ideas for your project. 
 
 Tip: 'See inside' a project to see the code. 
 
