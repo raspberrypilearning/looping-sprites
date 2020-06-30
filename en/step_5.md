@@ -3,15 +3,20 @@ Use these below drop-down tips to remind you how to do something if you are unsu
 
 [[[generic-scratch3-sprite-rotation-style]]]
 
+select new sprite
+
+scratch-go-to
+scratch-turn
+scratch-point-in-direction
+scratch-if-on-edge-bounce
+scratch-forever
+
 scratch-graphic-effects
 scratch-duplicating-code
 scratch-rotate-costume
 scratcher
-select new sprite
 scratch-layers
-scratch-if-on-edge-bounce
-scratch-forever
 scratch-rotation-style
-scratch-point-in-direction
 scratch-paint-ungroup
 scratch-paint-eyedropper
+
