@@ -1,5 +1,5 @@
 ## What will you make?
-Look at the sprites and backdrops that are available in Scratch.
+Now it's time to think about your project. You need to make a looping sprites project to change someone's mood and you also need to demonstrate as many skills as you can from the [Checklist](). 
 
 --- task ---
 Create a new Scratch project to start trying out your ideas.
