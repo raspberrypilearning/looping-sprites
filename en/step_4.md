@@ -19,13 +19,14 @@ It's easier to identify issues if you add one block at a time and then run your 
 --- /task ---
 
 --- task ---
-Keep going back to the [Checklist] step and marking the items you have completed. How are you doing? Can you find ways to demonstrate more skills in your project?
+Keep going back to the [Checklist](https://learning-admin.raspberrypi.org/en/projects/looping-sprites/1) and mark the items you have completed. How are you doing? Can you find ways to demonstrate more skills in your project?
 
 --- /task ---
 --- task ---
-If you have time, duplicate your sprite to create the starting point for your next sprite and repeat this step. 
+If you have time, duplicate your first sprite to create the starting point for your next sprite and repeat this step.
+[[[scratch-duplicating-code]]]
 
-Change the costume or edit the costume with the paint editor so that it looks different. 
+Change the new sprite's costume or edit the costume with the paint editor so that it looks different from your first sprite. 
 --- /task ---
 
 --- save ---
