@@ -3,6 +3,9 @@ Now it's time to get your first sprite moving. You will start with one sprite an
 
 --- task ---
 To begin to develop your project, you could investigate Butterfly garden and remind yourself how the code works. Click ‘See inside’ to see the Code editor.
+
+You can also look at the [Resources]() for this project for help with coding and other Scratch skills.
+
 --- /task ---
 
 --- task ---
