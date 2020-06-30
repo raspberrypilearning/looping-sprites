@@ -21,12 +21,9 @@ I can use layers to make it look like some sprites are in front of others
 I can use if on edge, bounce inside a forever loop to make my sprite turn away from the edge of the stage
 --- /task ---
 --- task ---
-I can comment on someone else’s project
---- /task ---
---- task ---
-I showed my project to someone else and acted on their feedback
---- /task ---
---- task ---
 I found a bug in my code and fixed it
+--- /task ---
+--- task ---
+I can comment on someone else’s project
 --- /task ---
 
