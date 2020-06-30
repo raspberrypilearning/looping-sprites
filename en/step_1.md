@@ -4,7 +4,7 @@ You're going to create a project with sprites that move over a backdrop to try a
 ### Skills you should have
 To do complete project you need to have the following skills which you may have learnt completing Butterfly garden.
 - How to use costumes
-- How to use the forever{:class="block3control"} block
+- How to use the `forever`{:class="block3control"} block
 
 You will now apply these skills to create your own project.
 
@@ -13,7 +13,7 @@ You will now apply these skills to create your own project.
 
 Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){target=_blank} studio where you can investigate projects created by others to get ideas for your project. 
 
-Tip: 'Look inside' a project to see the code. 
+Tip: 'See inside' a project to see the code. 
 
 --- no-print ---
 Click the green flag and watch the sprites move around:
