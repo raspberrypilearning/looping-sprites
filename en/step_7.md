@@ -1,4 +1,4 @@
-## Reflection
+## Reflect on your project
 How did you get on with your Looping sprites project? 
 
 Return to the [Checklist](https://learning-admin.raspberrypi.org/en/projects/looping-sprites/1) and remind yourself what you have learned.
