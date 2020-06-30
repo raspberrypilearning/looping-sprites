@@ -1,5 +1,5 @@
-## Cards
-Use these below cards as a 'how to' reminder. Pick up some additional techniques that you can use by exploring the cards.
+## How to tips
+Use these below drop-down tips to remind you how to do something if you are unsure or stuck. You can also pick up some additional techniques at any stage by exploring the tips.
 
 [[[generic-scratch3-sprite-rotation-style]]]
 
