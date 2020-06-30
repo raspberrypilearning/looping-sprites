@@ -48,7 +48,7 @@ title: What you will learn
 
 + How to apply your skills to realise your own project ideas
 + How to debug your program
-+ How to reflect on your own learning
++ How to reflect on your learning
 
 --- /collapse ---
 
