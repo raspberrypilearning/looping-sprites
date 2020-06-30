@@ -24,7 +24,7 @@ Keep going back to the [Checklist](https://learning-admin.raspberrypi.org/en/pro
 --- /task ---
 --- task ---
 If you have time, duplicate your first sprite to create the starting point for your next sprite and repeat this step.
-[[[scratch-duplicating-code]]]
+**Add me in: scratch-duplicating-code**
 
 Change the new sprite's costume or edit the costume with the paint editor so that it looks different from your first sprite. 
 --- /task ---
