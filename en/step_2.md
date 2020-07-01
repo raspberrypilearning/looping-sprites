@@ -6,7 +6,7 @@ Get ideas for your own Looping sprites project by investigating projects created
 --- task ---
 Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} Scratch studio.
 
-Click 'See inside' to investigate how the projects were made. Each sprite has a different algorithm which makes each sprite's movement unique.
+Click 'See inside' to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
 
 **Tip:** Professional programmers explore, and are inspired by, code created by other programmers.
 
