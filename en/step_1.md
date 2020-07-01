@@ -6,7 +6,7 @@ To complete ths Looping sprites project you need to have the following skills wh
 - How to use costumes
 - How to use the `forever`{:class="block3control"} block
 
-You will now apply these skills to create your own project.
+You will now apply these skills to create your own project where you will choose your own sprites and backdrop to create a unique animation.
 
 ## What you will make
 --- no-print ---
@@ -17,7 +17,6 @@ Click on the green flag to see an example project:
 --- /no-print ---
 
 --- print-only ---
-You will choose your own sprites and backdrop to create a unique animation.
 ![Complete project](images/showcase_static.png){:width="400px"}
 --- /print-only ---
 
