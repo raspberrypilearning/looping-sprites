@@ -2,8 +2,8 @@
 Now it's time to think about your project. What will you make? You need to make a Looping sprites project to change someone's mood. The theme and the way the sprites move is up to you.
 
 Get ideas for your own Looping sprites project by investigating projects created by others. 
---- task ---
 
+--- task ---
 Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} Scratch studio.
 
 Click 'See inside' to investigate how the projects were made. Each sprite has a different algorithm which makes each sprite's movement unique.
