@@ -21,7 +21,6 @@ when flag clicked
 set rotation style [don't rotate v]
 point in direction (0)
 set size to (100) %
-set size to [10%] ::looks
 forever
 move (5) steps
 if on edge, bounce
