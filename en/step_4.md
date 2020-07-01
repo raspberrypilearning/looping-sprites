@@ -18,20 +18,34 @@ Change the new sprite's costume or edit the costume with the paint editor so tha
 --- /task ---
 
 --- task ---
-Change the code to make your new sprite move differently to the first sprite. 
+Think about how this sprite will be different to the first sprite. 
 
 How big should the sprite be? 
 Which direction will it point in?
 
+Will the sprite appear behind or in front or other sprites?
+**Add me in: generic-scratch-layers**
+
+Try different movement patterns: 
+
+**Add me in: generic-scratch-spin-around**
+
+**Add me in: generic-move-in-a-circle**
+
+--- /task ---
+
+
+--- task ---
+Make sure you have selected the sprite that you want to change and click on the Code tab.
+
+Change the code so that the new sprite does what you want it to.
+
 --- /task ---
 
 --- task ---
-Try different movement patterns. 
-
-**Add me in: scratch-spin-around**
-
-**Add me in: move-in-a-circle**
+If you have time, you can keep adding more sprites. Make each one different to the others. 
 
 --- /task ---
 
 --- save ---
+

@@ -6,8 +6,6 @@ Use these below drop-down tips to remind you how to do something if you are unsu
 
 scratch-graphic-effects
 
-scratch-layers
-
 scratch-paint-ungroup
 
 scratch-paint-eyedropper

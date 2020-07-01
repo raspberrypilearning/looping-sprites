@@ -38,6 +38,11 @@ Think about how you want your sprite to move. For example, you might say "I want
 --- /task ---
 
 --- task ---
+Select your first sprite and click on the Code tab. 
+
+--- /task ---
+
+--- task ---
 Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage. 
 
 **Add me in: generic-scratch-if-on-edge-bounce **
