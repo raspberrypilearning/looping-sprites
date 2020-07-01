@@ -17,7 +17,7 @@ Click on the green flag to see an example project:
 --- /no-print ---
 
 --- print-only ---
-You will choose your own sprites and backdrop to create unique animation.
+You will choose your own sprites and backdrop to create a unique animation.
 ![Complete project](images/showcase_static.png){:width="400px"}
 --- /print-only ---
 
