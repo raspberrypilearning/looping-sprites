@@ -25,6 +25,6 @@ I found a bug in my code and fixed it
 
 Demonstrating these skills will contribute to the [Scratch Beginner]() and [Citizen Maker]() badges. 
 
-You can always go back and improve your project whenever you have time. 
+You can go back and improve your project whenever you have time. 
 
-If you have a Scratch account and have shared your Looping sprites project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work.
+If you have a Scratch account and have shared your Looping sprites project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments which are negative or irrelevant.
