@@ -1,29 +1,38 @@
-## Checklist
+## Choose your theme
+Now it's time to think about your project. What will you make? You need to make a Looping sprites project to change someone's mood. The theme and the way the sprites move is up to you.  
 
-As you create your looping sprites project, try and complete as many of the items on this list as you can. Demonstrating these skills will contribute to the [Scratch Beginner]() and [Citizen Maker]() badges. 
+--- task ---
+Create a new Scratch project to start trying out your ideas.
 
---- task ---
-I understand the purpose of the project
---- /task ---
---- task ---
-I can use rotation styles to change how my sprite rotates
---- /task ---
---- task ---
-I can modify a costume in the paint editor
---- /task ---
---- task ---
-I can use a forever loop to make a sprite repeat code 
---- /task ---
---- task ---
-I can use layers to make it look like some sprites are in front of others
---- /task ---
---- task ---
-I can use if on edge, bounce inside a forever loop to make my sprite turn away from the edge of the stage
---- /task ---
---- task ---
-I found a bug in my code and fixed it
---- /task ---
---- task ---
-I can comment on someone else’s project
 --- /task ---
 
+--- task ---
+Take 5 minutes to think about **your** looping sprites project. 
+
++ What mood do you want to create? Relaxing, Energising, Funny?
++ Look at the sprites and backdrops that are available in Scratch.
++ Which backdrop will you choose? 
++ Which sprite(s) will you choose? (You will just start with one and add more if you have time.)
+
+--- /task ---
+
+--- task ---
+Add a backdrop of your choice. You can change it later as you develop your idea. 
+
+[[[generic-scratch3-backdrop-from-library]]]
+--- /task ---
+
+--- task ---
+Choose and add your first sprite. You will be able to add more sprites later if you have time. 
+
+[[[generic-scratch-sprite-from-library]]]
+--- /task ---
+
+--- task ---
+Give your project a title that matches your theme. 
+
+generic-scratch-title
+
+--- /task ---
+
+--- save ---

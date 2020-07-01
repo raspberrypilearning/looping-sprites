@@ -1,8 +1,14 @@
-## How to...
+## More ideas
 Use these below drop-down tips to remind you how to do something if you are unsure or stuck. You can also pick up some additional techniques at any stage by exploring the tips.
 
 [[[generic-scratch3-sprite-rotation-style]]]
 
+<<<<<<< HEAD
+scratch-graphic-effects
+
+scratch-layers
+
+=======
 select new sprite
 
 scratch-go-to
@@ -19,6 +25,8 @@ scratch-scratcher
 scratch-layers
 
 scratch-rotation-style
+>>>>>>> fcc7dc9807d2e733659c912ca74d1f71340eded4
 scratch-paint-ungroup
+
 scratch-paint-eyedropper
 

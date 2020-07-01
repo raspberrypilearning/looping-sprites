@@ -1,31 +1,42 @@
-## What will you make?
-Now it's time to think about your project. You need to make a Looping sprites project to change someone's mood and you also need to demonstrate as many skills as you can from the [Checklist](). 
+## Get a sprite moving
+Now it's time to get your first sprite moving. You will start with one sprite and then add more. 
+
+Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop. 
 
 --- task ---
-Create a new Scratch project to start trying out your ideas.
+Think about how you want your sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly."
+--- /task ---
+
+--- task ---
+Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage. 
+
+**Add me in: generic-scratch-if-on-edge-bounce **
 
 --- /task ---
 
 --- task ---
-Take 5 minutes to think about **your** looping sprites project. 
-
-+ What mood do you want to create? Relaxing, Energising, Funny?
-+ Look at the sprites and backdrops that are available in Scratch.
-+ Which backdrop will you choose? 
-+ Which sprite(s) will you choose? (You will just start with one and add more if you have time.)
+Change the speed and direction of your sprite to get the effect you want. 
 
 --- /task ---
 
 --- task ---
-Add a backdrop of your choice. You can change it later as you develop your idea. 
+You may need to change the way your sprite's costume rotates when it moves to stop it going upside down.
+
+**Add me in: scratch-rotate-costume **
+
 --- /task ---
 
 --- task ---
-Add your first sprite. You will be able to add more sprites later if you have time. 
+Is your sprite the size you want it to be? If not, adjust its size.
+
+**Add me in: generic-scratch-change-size **
+
 --- /task ---
+
+**Tip:** It's easier to identify issues if you make one change at a time and then run your program. 
 
 --- task ---
-Give your project a title that matches your theme. 
---- /task ---
 
---- save ---
+Remember to keep running your project to test it. Is the program working as you had planned?
+
+--- /task ---
