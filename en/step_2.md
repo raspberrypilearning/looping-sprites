@@ -4,7 +4,7 @@ Now it's time to think about your project. What will you make? You need to make 
 --- task ---
 Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} Scratch studio to investigate projects created by others to get ideas for your own Looping sprites project. 
 
-**Tip:** Click 'See inside' on the projects to investigate how they were made. Each sprite has a different *[algorithm] which means each sprite's movement is unique.
+**Tip:** Click 'See inside' on the projects to investigate how they were made. Each sprite has a different algorithm which means each sprite's movement is unique.
 
 ![See inside icon](images/see_inside.png)
 
