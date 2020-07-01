@@ -2,6 +2,22 @@
 Now it's time to think about your project. What will you make? You need to make a Looping sprites project to change someone's mood. The theme and the way the sprites move is up to you.  
 
 --- task ---
+Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} Scratch studio to investigate projects created by others to get ideas for your own Looping sprites project. 
+
+**Tip:** Click 'See inside' one or some of the projects to investigate how they were made. 
+
+--- no-print ---
+Click the green flag and watch the sprites move around:
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/407384474/?autostart=false" frameborder="0"></iframe>
+</div>
+--- /no-print ---
+
+--- print-only ---
+![Complete project](images/showcase_static.png){:width="400px"}
+--- /print-only ---
+--- /task ---
+--- task ---
 Create a new Scratch project to start trying out your ideas.
 
 --- /task ---
