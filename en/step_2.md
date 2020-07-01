@@ -1,12 +1,14 @@
 ## Choose your theme
-Now it's time to think about your project. What will you make? You need to make a Looping sprites project to change someone's mood. The theme and the way the sprites move is up to you.  
+Now it's time to think about your project. What will you make? You need to make a Looping sprites project to change someone's mood. The theme and the way the sprites move is up to you.
 
+Get ideas for your own Looping sprites project by investigating projects created by others. 
 --- task ---
-Get ideas for your own Looping sprites project by going to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} Scratch studio.
 
-Investigate the projects created by others. Click 'See inside' to investigate how they were made. Each sprite has a different algorithm which makes each sprite's movement unique.
+Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} Scratch studio.
 
-**Tip:** Even professional programmers are inspired by code created by others.
+Click 'See inside' to investigate how the projects were made. Each sprite has a different algorithm which makes each sprite's movement unique.
+
+**Tip:** Professional programmers explore, and are inspired by, code created by other programmers.
 
 ![See inside icon](images/see_inside.png)
 
@@ -28,7 +30,7 @@ Take 5 minutes to think about **your** Looping sprites project.
 --- /task ---
 
 --- task ---
-Add a backdrop of your choice. You can change it later as you develop your idea. 
+Choose and add a backdrop of your choice. You can change it later as you develop your idea. 
 
 [[[generic-scratch3-backdrop-from-library]]]
 --- /task ---
