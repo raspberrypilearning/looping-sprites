@@ -4,7 +4,7 @@ How did you get on with your Looping sprites project? Is there anything you woul
 Remind yourself what you have learned:
 
 --- task ---
-I can use rotation styles to change how my sprite rotates
+My  project uses rotation styles to change how my sprite rotates
 --- /task ---
 --- task ---
 I can modify a costume in the paint editor
