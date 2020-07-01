@@ -7,7 +7,7 @@ Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3
 This sprite moves up and down the stage, changing direction when it hits the top or bottom. 
 
 --- no-print ---
-![Image annotated with path of sprite](images/moving-up-down.gif){:width="400px"}
+![Animated gif showing path of sprite](images/moving-up-down.gif){:width="400px"}
 --- /no-print ---
 
 --- print-only ---
@@ -30,7 +30,7 @@ end
 
 Look at the code and understand how it makes the sprite move.
 
-Choosing `0` in the `point in direction` block makes the sprite point upwards so the `move` block will make the sprite move up to the top of the stage. If the sprite touches the top of the Stage it will flip direction and start moving down towards the bottom of the stage. 
+Choosing `0` in the `point in direction`{:class="block3motion"} block makes the sprite point upwards so the `move`{:class="block3motion"} block will make the sprite move up to the top of the stage. If the sprite touches the top of the Stage it will flip direction and start moving down towards the bottom of the stage. 
 
 --- /task ---
 
