@@ -8,17 +8,8 @@ Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_
 
 ![See inside icon](images/see_inside.png)
 
---- no-print ---
-Click the green flag and watch the sprites move around:
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/407384474/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png){:width="400px"}
---- /print-only ---
 --- /task ---
+
 --- task ---
 Create a new Scratch project to start trying out your ideas.
 
