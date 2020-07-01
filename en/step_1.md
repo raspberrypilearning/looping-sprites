@@ -1,5 +1,5 @@
 ## Introduction
-You're going to create a project to try and change someone's mood using sprites that move over a backdrop. You will choose a theme for your project such as relaxing, energising, funny, inspiring or something else - it's your choice. You will invent an algorithm for each of the sprites you choose.
+You're going to create a project to try and change someone's mood using sprites that move over a backdrop. You will choose a theme for your project such as relaxing, energising, funny, inspiring or something else - it's your choice.
 
 ## Skills you should have
 To complete ths Looping sprites project you need to have the following skills which you will have learnt when completing [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden):
@@ -55,5 +55,3 @@ title: Additional information for educators
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
 
 --- /collapse ---
-
-*[algorithm]: A set of precise instructions for performing a task.
