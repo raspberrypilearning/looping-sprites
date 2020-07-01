@@ -9,7 +9,17 @@ To complete ths Looping sprites project you need to have the following skills wh
 You will now apply these skills to create your own project.
 
 ## What you will make
-Click on the green flag to see an example project.
+--- no-print ---
+Click on the green flag to see an example project:
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/407384474/?autostart=false" frameborder="0"></iframe>
+</div>
+--- /no-print ---
+
+--- print-only ---
+You will choose your own sprites and backdrop to create unique animation.
+![Complete project](images/showcase_static.png){:width="400px"}
+--- /print-only ---
 
 --- collapse ---
 ---
