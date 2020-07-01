@@ -4,7 +4,38 @@ Now it's time to get your first sprite moving. You will start with one sprite an
 Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop. 
 
 --- task ---
-Think about how you want your sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly."
+This sprite moves up and down the stage, changing direction when it hits the top or bottom. 
+
+--- no-print ---
+![Image annotated with path of sprite](images/moving-up-down.gif){:width="400px"}
+--- /no-print ---
+
+--- print-only ---
+![Image annotated with path of sprite](images/moving-up-down.png){:width="400px"}
+--- /print-only ---
+
+Here's the code it uses:
+
+```blocks3
+when flag clicked
+set rotation style [don't rotate v]
+point in direction (0)
+set size to (100) %
+set size to [10%] ::looks
+forever
+move (5) steps
+if on edge, bounce
+end
+```
+
+Look at the code and understand how it makes the sprite move.
+
+Choosing `0` in the `point in direction` block makes the sprite point upwards so the `move` block will make the sprite move up to the top of the stage. If the sprite touches the top of the Stage it will flip direction and start moving down towards the bottom of the stage. 
+
+--- /task ---
+
+--- task ---
+Think about how you want your sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly." or "I want my sprite to be really small and move quickly in a diagonal line."
 --- /task ---
 
 --- task ---
