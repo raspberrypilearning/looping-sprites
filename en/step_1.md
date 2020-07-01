@@ -8,6 +8,9 @@ To complete ths Looping sprites project you need to have the following skills wh
 
 You will now apply these skills to create your own project.
 
+## What you will make
+Click on the green flag to see an example project.
+
 --- collapse ---
 ---
 title: What you will need
