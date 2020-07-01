@@ -6,6 +6,8 @@ Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_
 
 **Tip:** Click 'See inside' one or some of the projects to investigate how they were made. 
 
+![See inside icon](images/see_inside.png)
+
 --- no-print ---
 Click the green flag and watch the sprites move around:
 <div class="scratch-preview">
