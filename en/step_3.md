@@ -1,5 +1,5 @@
 ## Get a sprite moving
-Now it's time to get your first sprite moving. You will start with one sprite and then add more. 
+Now it is time to get your first sprite moving. You will start with one sprite and then add more. 
 
 Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop. 
 
