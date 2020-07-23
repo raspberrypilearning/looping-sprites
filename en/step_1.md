@@ -16,6 +16,8 @@ Click on the green flag to see an example project:
 </div>
 --- /no-print ---
 
+Here's an example project:
+
 --- print-only ---
 ![Complete project](images/showcase_static.png){:width="400px"}
 --- /print-only ---
