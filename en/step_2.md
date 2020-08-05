@@ -15,7 +15,7 @@ Click 'See inside' to investigate how the projects were made. Each sprite has a 
 --- /task ---
 
 --- task ---
-Create a new Scratch project to start trying out your ideas.
+Create a new Scratch project.
 
 --- /task ---
 
