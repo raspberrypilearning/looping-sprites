@@ -6,6 +6,8 @@ You are going to create a looping sprites project to change someone's mood. The 
 
 You can get ideas for your own looping sprites project by investigating projects created by others.
 
+Don't worry about the code and **how** things will work just yet. Instead, as you look at the projects below, give some thought to **your** projects theme, how it will look and the way you want **your** sprites to move.
+
 --- no-print ---
 
 Have a look at the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} below from the Raspberry Pi Foundation Scratch studio.
@@ -36,7 +38,7 @@ Click `See inside`{:class="block3motion"} to investigate how the projects were m
 
 --- task ---
 
-### Butterfly garden
+Look at the **Butterfly garden** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/403091557/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -48,7 +50,7 @@ Click `See inside`{:class="block3motion"} to investigate how the projects were m
 
 --- task ---
 
-### Love heart sweets
+Look at the **Love heart sweets** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/408665598/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -60,7 +62,7 @@ Click `See inside`{:class="block3motion"} to investigate how the projects were m
 
 --- task ---
 
-### Jellyfish formation
+Look at the **Jellyfish formation** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/408666042/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -72,7 +74,7 @@ Click `See inside`{:class="block3motion"} to investigate how the projects were m
 
 --- task ---
 
-### Party food
+Look at the **Party food** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/407335201/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
