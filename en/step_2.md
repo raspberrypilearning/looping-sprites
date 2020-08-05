@@ -15,7 +15,7 @@ Click 'See inside' to investigate how the projects were made. Each sprite has a 
 --- /task ---
 
 --- task ---
-Open a new Scratch project. That's all you need to do in this step.
+Open a new Scratch project. That's all you need to do for this task.
 
 --- /task ---
 
