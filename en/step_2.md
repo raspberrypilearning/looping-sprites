@@ -16,30 +16,6 @@ Click `See inside` below a project to investigate its code. Each sprite has a di
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/408665598/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/408665598/editor/){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/408666042/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/408666042/editor/){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/407335201/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/407335201/editor/){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/403091557/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/403091557/editor/){:target="_blank"}
-
 --- /no-print ---
 
 --- print-only ---
@@ -56,5 +32,59 @@ Click `See inside` to investigate how the projects were made. Each sprite has a 
 
 --- /task ---
 
+--- no-print ---
+
+--- task ---
+
+### Butterfly garden
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/403091557/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/403091557/editor/){:target="_blank"}
+
+--- /task ---
+
+--- task ---
+
+### Love heart sweets
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/408665598/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/408665598/editor/){:target="_blank"}
+
+--- /task ---
+
+--- task ---
+
+### Jellyfish formation
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/408666042/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/408666042/editor/){:target="_blank"}
+
+--- /task ---
+
+--- task ---
+
+### Party food
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/407335201/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/407335201/editor/){:target="_blank"}
+
+--- /task ---
+
+--- /no-print ---
+
 *[algorithm]: A set of precise instructions for performing a task.
+
+
 
