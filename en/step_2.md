@@ -8,11 +8,11 @@ You can get ideas for your own looping sprites project by investigating projects
 
 --- no-print ---
 
-Have a look at these [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} from the Raspberry Pi Foundation Scratch studio.
+Have a look at the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} below from the Raspberry Pi Foundation Scratch studio.
 
 Click the green flag on a project to see the code run.
 
-Click `See inside` below a project to investigate its code. Each sprite has a different **algorithm** which makes each sprite's movement unique.
+Click `See inside`{:class="block3motion"} below a project to investigate its code. Each sprite has a different **algorithm** which makes each sprite's movement unique.
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
@@ -22,7 +22,7 @@ Click `See inside` below a project to investigate its code. Each sprite has a di
 
 Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} Scratch studio.
 
-Click `See inside` to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
+Click `See inside`{:class="block3motion"} to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
