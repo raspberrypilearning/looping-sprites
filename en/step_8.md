@@ -1,22 +1,23 @@
 ## Reflect on your project
-How did you get on with your Looping sprites project? Is there anything you would do differently? 
 
-Remind yourself what you have learned:
+How did your looping sprites project go? Is there anything you would do like to improve? 
+
+Remind yourself what you have achieved:
 
 --- task ---
-I can use if on edge, bounce inside a forever loop to make my sprite turn away from the edge of the stage
+I used an `if on edge, bounce`{:class="block3motion"} inside a `forever`{:class="block3control"} loop to make my sprite turn away from the edge of the stage
 --- /task ---
 --- task ---
-I can use a forever loop to make a sprite repeat code 
+I used a `forever`{:class="block3control"} loop to make a sprite repeat code 
 --- /task ---
 --- task ---
-I can modify a costume in the paint editor
+I modified a costume in the paint editor
 --- /task ---
 --- task ---
-My  project uses rotation styles to change how my sprite rotates
+I used `rotation`{:class="block3control"} styles to change how my sprite rotates
 --- /task ---
 --- task ---
-I can use layers to make it look like some sprites are in front of others
+I used `layers`{:class="block3looks"} to make it look like some sprites are in front of others
 --- /task ---
 --- task ---
 I found a bug in my code and fixed it
