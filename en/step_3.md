@@ -19,14 +19,30 @@ Take 5 minutes to think about **your** Looping sprites project.
 
 --- /task ---
 
+`or combined`
+
 --- task ---
-Choose and add a backdrop of your choice. You can change it later as you develop your idea. 
+
+Open a new Scratch project, just so that you can look at the range of sprites and backgrounds to help you plan.
+
+Take 5 minutes to think about **your** Looping sprites project. 
+
++ What mood do you want to create? Relaxing, Energising, Funny?
++ Look at the sprites and backdrops that are available in Scratch.
++ Which backdrop will you choose? 
++ Which sprites will you choose? 
++ Maybe you will just start with one sprite and add more if you have time.
+
+--- /task ---
+
+--- task ---
+Add a backdrop of your choice. Don't worry too much as you can change at any time as you develop your idea. 
 
 [[[generic-scratch3-backdrop-from-library]]]
 --- /task ---
 
 --- task ---
-Choose and add your first sprite. You will be able to add more sprites later if you have time. 
+Add your first sprite. You will always be able to change the way it looks or add more sprites later if you have time. 
 
 [[[generic-scratch-sprite-from-library]]]
 --- /task ---
@@ -37,7 +53,5 @@ Give your project a title that matches your theme.
 **generic-scratch-title with gif**
 
 --- /task ---
-
-
 
 --- save ---
