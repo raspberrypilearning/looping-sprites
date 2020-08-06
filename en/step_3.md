@@ -1,4 +1,4 @@
-## Develop your theme
+## Choose your theme
 
 Now it's time to start working on your own project.
 
