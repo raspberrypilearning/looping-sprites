@@ -54,7 +54,7 @@ Add code to make your sprite move around the stage in a forever loop, bouncing o
 
 **Add me in: generic-scratch-if-on-edge-bounce **
 
-`DISCUSS` Could we add an embedded project that has different sprites moving with a range of different motions in the one project. Have a SEE INSIDE button so the user can explore how a particular movement is achieved?
+[//]: # (`DISCUSS` Could we add an embedded project that has different sprites moving with a range of different motions in the one project. Have a SEE INSIDE button so the user can explore how a particular movement is achieved?)
 
 --- /task ---
 
