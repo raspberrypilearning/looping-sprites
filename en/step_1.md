@@ -10,13 +10,13 @@ You will now apply these skills to create your own project where you will choose
 
 ## What you will make
 --- no-print ---
-Click on the green flag to see an example project:
+Click on the green flag to see this example project run:
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/407384474/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /no-print ---
 
-Here's an example project:
+In this example project, the hearts move around the screen in different ways using loops.
 
 --- print-only ---
 ![Complete project](images/showcase_static.png){:width="400px"}

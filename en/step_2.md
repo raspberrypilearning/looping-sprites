@@ -26,9 +26,9 @@ Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_
 
 Click `See inside`{:class="block3motion"} to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
 
-**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
-
 ![See inside icon](images/see_inside.png)
+
+**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
 --- /print-only ---
 
@@ -38,7 +38,7 @@ Click `See inside`{:class="block3motion"} to investigate how the projects were m
 
 --- task ---
 
-Look at the **Butterfly garden** Scratch project.
+Investgate the **Butterfly garden** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/403091557/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -50,7 +50,7 @@ Look at the **Butterfly garden** Scratch project.
 
 --- task ---
 
-Look at the **Love heart sweets** Scratch project.
+Investgate the **Love heart sweets** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/408665598/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -62,7 +62,7 @@ Look at the **Love heart sweets** Scratch project.
 
 --- task ---
 
-Look at the **Jellyfish formation** Scratch project.
+Investgate the **Jellyfish formation** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/408666042/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -74,7 +74,7 @@ Look at the **Jellyfish formation** Scratch project.
 
 --- task ---
 
-Look at the **Party food** Scratch project.
+Investgate the **Party food** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/407335201/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
