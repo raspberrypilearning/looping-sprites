@@ -56,6 +56,8 @@ Add code to make your sprite move around the stage in a forever loop, bouncing o
 
 [//]: # (***COMMENT*** Pablo would like to add an embedded project that has different sprites moving with a range of different motions in the one project. Have a SEE INSIDE button so the user can explore how a particular movement is achieved? This would act as an immediate visiual stimulus or palette for user investigation of wider possibilities, in contrast to a teaching unit such as an ingredient)
 
+<!--- ***COMMENT*** Pablo would like to add an embedded project that has different sprites moving with a range of different motions in the one project. Have a SEE INSIDE button so the user can explore how a particular movement is achieved? This would act as an immediate visiual stimulus or palette for user investigation of wider possibilities, in contrast to a teaching unit such as an ingredient) --->
+
 --- /task ---
 
 --- task ---
