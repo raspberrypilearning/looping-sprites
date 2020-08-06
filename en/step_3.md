@@ -23,9 +23,7 @@ Take 5 minutes to think about **your** Looping sprites project.
 
 --- task ---
 
-Open a new Scratch project, just so that you can look at the range of sprites and backgrounds to help you plan.
-
-Take 5 minutes to think about **your** Looping sprites project. 
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}, so that you can see the range of sprites and backgrounds, and take 5 minutes to think about **your** Looping sprites project. 
 
 + What mood do you want to create? Relaxing, Energising, Funny?
 + Look at the sprites and backdrops that are available in Scratch.
