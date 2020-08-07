@@ -38,7 +38,7 @@ Click `See inside`{:class="block3motion"} to investigate how the projects were m
 
 --- task ---
 
-Investgate the **Butterfly garden** Scratch project.
+Investigate the **Butterfly garden** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/403091557/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -50,7 +50,7 @@ Investgate the **Butterfly garden** Scratch project.
 
 --- task ---
 
-Investgate the **Love heart sweets** Scratch project.
+Investigate the **Love heart sweets** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/408665598/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -62,7 +62,7 @@ Investgate the **Love heart sweets** Scratch project.
 
 --- task ---
 
-Investgate the **Jellyfish formation** Scratch project.
+Investigate the **Jellyfish formation** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/408666042/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -74,7 +74,7 @@ Investgate the **Jellyfish formation** Scratch project.
 
 --- task ---
 
-Investgate the **Party food** Scratch project.
+Investigate the **Party food** Scratch project.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/407335201/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
